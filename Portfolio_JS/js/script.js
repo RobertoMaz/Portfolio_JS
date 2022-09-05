@@ -16,6 +16,8 @@
         $btnMenu.lastElementChild.classList.add("none");
         $menu.classList.remove("is-active");
 
+        
 
     });
 })(document);
+
