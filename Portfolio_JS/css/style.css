@@ -20,7 +20,7 @@
    --max-width: 1200px;
    --header-height: 4rem;
 }
-/*********** Reset ***********/
+/*********** Reset ************/
 html {
     box-sizing: border-box;
     font-family: var(--font);
